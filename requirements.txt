@@ -1,3 +1,4 @@
 requests>=2.21.0
 veracode-api-py>=0.9.5
 logging-formatter-anticrlf>=1.2
+httpie>=3.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
